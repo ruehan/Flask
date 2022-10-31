@@ -1,0 +1,40 @@
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.178.0.2:9900/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 593-888-675
+106.252.229.51 - - [24/Jan/2022 10:28:28] "GET / HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:28:28] "GET /favicon.ico HTTP/1.1" 404 -
+106.252.229.51 - - [24/Jan/2022 10:29:17] "GET /home HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:18] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:19] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:20] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:21] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:22] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:23] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:24] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:25] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:26] "POST /test2 HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:29:27] "POST /test2 HTTP/1.1" 200 -
+ * Detected change in '/home/eternelgyu/flask/app.py', reloading
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 593-888-675
+106.252.229.51 - - [24/Jan/2022 10:43:04] "GET / HTTP/1.1" 200 -
+106.252.229.51 - - [24/Jan/2022 10:43:05] "GET / HTTP/1.1" 200 -
